@@ -4,7 +4,7 @@ A notebook for implementing neural style transfer
 ## Example 1
 
 The content image (The Casino of Constanta)
-![alt text](https://github.com/Cristofor-Petre/Neural-Style-Transfer/tree/master/examples/constanta_casino.jpg)
+<img src="https://github.com/Cristofor-Petre/Neural-Style-Transfer/tree/master/examples/constanta_casino.jpg">
 
 The style image (The Starry Night)
 ![alt text](https://github.com/Cristofor-Petre/Neural-Style-Transfer/tree/master/examples/van_gogh_night.jpg)

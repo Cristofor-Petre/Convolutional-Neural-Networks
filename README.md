@@ -1,5 +1,5 @@
 # CNN Applications
-### 1.Neural Style Transfer
+### 1. Neural Style Transfer
 
 
 
